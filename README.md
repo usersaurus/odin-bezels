@@ -10,6 +10,14 @@ Add Retroarch bezels to your Odin and say NO to these black bars :)
 
 And that's all :)
 
+## Examples
+
+### Game Boy
+![Screenshot_20221114-201920](https://user-images.githubusercontent.com/14541427/201751680-d32e1cb9-3945-48e1-ac2b-561132c66472.png)
+
+### Game Boy Color
+![Screenshot_20221114-202159](https://user-images.githubusercontent.com/14541427/201751730-e32f350a-d160-4d57-850c-e27cf145ce42.png)
+
 ## Notes
 
 - If you want to keep your rom files in other place (external storage or another folder in your internal storage) you just need to rename your rom folder with **exactly the same name** that you can find in the `roms` folder. So, for example, if your **Game Boy Color** folder is called `Game boy Color` you'll need to rename it to `gbc`
