@@ -20,7 +20,7 @@ And that's all :)
 
 ## Notes
 
-- If you want to keep your rom files in other place (external storage or another folder in your internal storage) you just need to rename your rom folder with **exactly the same name** that you can find in the `roms` folder. So, for example, if your **Game Boy Color** folder is called `Game boy Color` you'll need to rename it to `gbc`
+- If you want to keep your rom files in another place (external storage or another folder in your internal storage) you just need to rename your rom folder with **exactly the same name** that you can find in the `roms` folder. So, for example, if your **Game Boy Color** folder is called `Game boy Color` you'll need to rename it to `gbc`
 
 ## Credits
 
