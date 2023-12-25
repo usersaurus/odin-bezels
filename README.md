@@ -1,6 +1,6 @@
 # Odin bezels
 
-Add Retroarch bezels to your Odin and say NO to these black bars :)
+Add Retroarch bezels to your Odin and Odin 2 and say NO to these black bars :)
 
 ## Getting started
 
@@ -21,6 +21,7 @@ And that's all :)
 ## Notes
 
 - If you want to keep your rom files in another place (external storage or another folder in your internal storage) you just need to rename your rom folder with **exactly the same name** that you can find in the `roms` folder. So, for example, if your **Game Boy Color** folder is called `Game boy Color` you'll need to rename it to `gbc`
+- This is also compatible with the Odin 2
 
 ## FAQ
 
